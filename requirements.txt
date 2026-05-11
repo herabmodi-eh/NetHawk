@@ -1,0 +1,8 @@
+colorama
+pyfiglet
+termcolor
+beautifulsoup4
+requests
+scapy
+mac-vendor-lookup
+lxml

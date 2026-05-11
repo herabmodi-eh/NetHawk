@@ -1,0 +1,7 @@
+### First you need to install all the requirement modules of python in order to run the tool::::----
+Open a terminal/command prompt in the project folder and run:
+```bash
+pip install -r requirements.txt
+
+###If you are using this tool in WINDOWS::::----
+Run `npcap-1.80.exe` included in this repo and install with default settings.
